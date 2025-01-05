@@ -1,0 +1,88 @@
+{
+	"Success": true,
+	"Error": null,
+	"documentType": "MY",
+	"isBackOfIDImage": false,
+	"lastNameOrFullName": "NG HUI LING",
+	"lastNameOrFullNameConfidence": null,
+	"firstName": null,
+	"firstNameConfidence": null,
+	"middleName": null,
+	"middleNameConfidence": null,
+	"documentNumber": "730818-13-5230",
+	"documentNumberConfidence": {
+		"Min": 1,
+		"Max": 1,
+		"Avg": 1,
+		"Worst": 1,
+		"Best": 1
+	},
+	"nationality": "MY",
+	"nationalityConfidence": {
+		"Min": 1,
+		"Max": 1,
+		"Avg": 1,
+		"Worst": 1,
+		"Best": 1
+	},
+	"dateOfBirth": null,
+	"dateOfBirthConfidence": null,
+	"placeOfBirth": null,
+	"placeOfBirthConfidence": null,
+	"gender": "PEREMPUAN",
+	"genderConfidence": {
+		"Min": 1,
+		"Max": 1,
+		"Avg": 1,
+		"Worst": 1,
+		"Best": 1
+	},
+	"maritalStatus": null,
+	"maritalStatusConfidence": null,
+	"documentExpirationDate": null,
+	"documentExpirationDateConfidence": null,
+	"documentIssueDate": null,
+	"documentIssueDateConfidence": null,
+	"addressLine1": "NO 10-12 BLOK A VILLA KRYSTAL JALAN SILAT LINCAH",
+	"addressLine1Confidence": {
+		"Min": 1,
+		"Max": 1,
+		"Avg": 1,
+		"Worst": 1,
+		"Best": 1
+	},
+	"addressLine2": "BANDAR SELESA JAYA SKUDAI JOHOR",
+	"addressLine2Confidence": {
+		"Min": 1,
+		"Max": 1,
+		"Avg": 1,
+		"Worst": 1,
+		"Best": 1
+	},
+	"addressTown": null,
+	"addressTownConfidence": null,
+	"postcode": "81300",
+	"postcodeConfidence": {
+		"Min": 1,
+		"Max": 1,
+		"Avg": 1,
+		"Worst": 1,
+		"Best": 1
+	},
+	"personalNumber": null,
+	"personalNumberConfidence": null,
+	"country": "MY",
+	"faceImageBase64": null,
+	"extraData": null,
+	"confidences": {
+		"Min": 1,
+		"Max": 1,
+		"Avg": 1,
+		"Worst": 1,
+		"Best": 1
+	},
+	"resultJsonStringOCR": "```json\n{\n  \"documentType\": \"MyKad\",\n  \"fields\": [\n    {\n      \"name\": \"nric\",\n      \"value\": \"730818-13-5230\",\n      \"ocr_confidence\": 1.0\n    },\n    {\n      \"name\": \"name\",\n      \"value\": \"NG HUI LING\",\n      \"ocr_confidence\": 1.0\n    },\n    {\n      \"name\": \"address\",\n      \"value\": \"NO 10-12 BLOK A VILLA KRYSTAL\\nJALAN SILAT LINCAH\\nBANDAR SELESA JAYA\\n81300 SKUDAI\\nJOHOR\",\n      \"ocr_confidence\": 1.0\n    },\n    {\n      \"name\": \"nationality\",\n      \"value\": \"WARGANEGARA\",\n      \"ocr_confidence\": 1.0\n    },\n    {\n      \"name\": \"gender\",\n      \"value\": \"PEREMPUAN\",\n      \"ocr_confidence\": 1.0\n    }\n  ]\n}\n```",
+	"resultJsonStringImageLabeling": null,
+	"documentLandmarksProbabilityAvg": null,
+	"eKycSessionId": null
+}

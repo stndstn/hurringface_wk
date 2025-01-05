@@ -1,0 +1,109 @@
+{
+	"success": false,
+	"error": "Failed to scan [DOB]",
+	"timestamp": "2024-11-19T02:54:28.4842151+00:00",
+	"documentType": "UI",
+	"isBackOfIDImage": false,
+	"lastNameOrFullName": "CAN 0033-1115041-3",
+	"lastNameOrFullNameConfidence": {
+		"min": 0.885,
+		"max": 0.93,
+		"avg": 0.9075,
+		"worst": 0.885,
+		"best": 0.93
+	},
+	"firstName": "VILLA BUENAVENTURA SANCHEZ",
+	"firstNameConfidence": {
+		"min": 0.795,
+		"max": 0.994,
+		"avg": 0.9266666666666668,
+		"worst": 0.795,
+		"best": 0.994
+	},
+	"middleName": "MARIA CHRISTINA",
+	"middleNameConfidence": {
+		"min": 0.991,
+		"max": 0.993,
+		"avg": 0.992,
+		"worst": 0.991,
+		"best": 0.993
+	},
+	"documentNumber": "JOSEFINA",
+	"documentNumberConfidence": {
+		"min": 0.667,
+		"max": 0.667,
+		"avg": 0.667,
+		"worst": 0.667,
+		"best": 0.667
+	},
+	"nationality": "PH",
+	"nationalityConfidence": {
+		"min": 1,
+		"max": 1,
+		"avg": 1,
+		"worst": 1,
+		"best": 1
+	},
+	"dateOfBirth": "",
+	"dateOfBirthConfidence": {
+		"min": 0,
+		"max": 0,
+		"avg": 0,
+		"worst": 0,
+		"best": 0
+	},
+	"placeOfBirth": null,
+	"placeOfBirthConfidence": null,
+	"gender": "M",
+	"genderConfidence": {
+		"min": 0.982,
+		"max": 0.991,
+		"avg": 0.9864999999999999,
+		"worst": 0.982,
+		"best": 0.991
+	},
+	"maritalStatus": null,
+	"maritalStatusConfidence": null,
+	"documentExpirationDate": null,
+	"documentExpirationDateConfidence": null,
+	"documentIssueDate": null,
+	"documentIssueDateConfidence": null,
+	"addressLine1": "VILLA CRISOSTOMO 26 PANGASINAN ST BAGO BANTAY",
+	"addressLine1Confidence": {
+		"min": 0.312,
+		"max": 0.997,
+		"avg": 0.874,
+		"worst": 0.312,
+		"best": 0.997
+	},
+	"addressLine2": "STO CRISTO QUEZON CITY PHILIPPINES 14DO",
+	"addressLine2Confidence": {
+		"min": 0.173,
+		"max": 0.997,
+		"avg": 0.8521666666666667,
+		"worst": 0.173,
+		"best": 0.997
+	},
+	"addressTown": null,
+	"addressTownConfidence": null,
+	"postcode": null,
+	"postcodeConfidence": null,
+	"personalNumber": null,
+	"personalNumberConfidence": null,
+	"country": "PH",
+	"faceImageBase64": null,
+	"faceImageMediaType": "image/jpeg",
+	"extraData": null,
+	"confidences": {
+		"min": 0,
+		"max": 1,
+		"avg": 0.8579999999999997,
+		"worst": 0.173,
+		"best": 1
+	},
+	"resultJsonStringOCR": "{\"Status\":3,\"CreatedDateTime\":\"2024-11-19T02:54:25Z\",\"LastUpdatedDateTime\":\"2024-11-19T02:54:26Z\",\"AnalyzeResult\":{\"Version\":\"3.2.0\",\"ModelVersion\":\"2022-04-30\",\"ReadResults\":[{\"Page\":1,\"Language\":null,\"Angle\":0,\"Width\":283,\"Height\":178,\"Unit\":0,\"Lines\":[{\"Language\":null,\"BoundingBox\":[58,13,221,12,221,22,58,23],\"Appearance\":{\"Style\":{\"Name\":\"other\",\"Confidence\":0.972}},\"Text\":\"REPUBLIC OF THE PHILIPPINES\",\"Words\":[{\"BoundingBox\":[58,13,108,13,108,23,58,23],\"Text\":\"REPUBLIC\",\"Confidence\":0.995},{\"BoundingBox\":[113,13,126,13,126,23,113,23],\"Text\":\"OF\",\"Confidence\":0.998},{\"BoundingBox\":[131,13,150,13,150,23,130,23],\"Text\":\"THE\",\"Confidence\":0.998},{\"BoundingBox\":[154,13,217,13,217,23,154,23],\"Text\":\"PHILIPPINES\",\"Confidence\":0.991}]},{\"Language\":null,\"BoundingBox\":[93,23,186,23,186,32,93,32],\"Appearance\":{\"Style\":{\"Name\":\"other\",\"Confidence\":0.972}},\"Text\":\"Unified Multi-Purpose ID\",\"Words\":[{\"BoundingBox\":[93,24,119,24,119,32,93,32],\"Text\":\"Unified\",\"Confidence\":0.966},{\"BoundingBox\":[121,24,174,23,174,32,121,32],\"Text\":\"Multi-Purpose\",\"Confidence\":0.668},{\"BoundingBox\":[177,23,185,23,184,32,177,32],\"Text\":\"ID\",\"Confidence\":0.972}]},{\"Language\":null,\"BoundingBox\":[167,45,276,45,276,55,167,55],\"Appearance\":{\"Style\":{\"Name\":\"other\",\"Confidence\":0.972}},\"Text\":\"CAN 0033-1115041-3\",\"Words\":[{\"BoundingBox\":[168,46,184,46,184,56,168,56],\"Text\":\"CAN\",\"Confidence\":0.93},{\"BoundingBox\":[189,46,272,46,272,56,189,56],\"Text\":\"0033-1115041-3\",\"Confidence\":0.885}]},{\"Language\":null,\"BoundingBox\":[120,68,272,68,272,78,120,78],\"Appearance\":{\"Style\":{\"Name\":\"other\",\"Confidence\":0.972}},\"Text\":\"VILLA BUENAVENTURA SANCHEZ\",\"Words\":[{\"BoundingBox\":[121,69,148,69,148,78,121,78],\"Text\":\"VILLA\",\"Confidence\":0.994},{\"BoundingBox\":[154,69,224,69,224,78,153,78],\"Text\":\"BUENAVENTURA\",\"Confidence\":0.795},{\"BoundingBox\":[230,69,271,69,271,79,230,79],\"Text\":\"SANCHEZ\",\"Confidence\":0.991}]},{\"Language\":null,\"BoundingBox\":[118,86,207,87,207,95,118,95],\"Appearance\":{\"Style\":{\"Name\":\"other\",\"Confidence\":0.972}},\"Text\":\"MARIA CHRISTINA\",\"Words\":[{\"BoundingBox\":[119,87,147,87,147,96,119,95],\"Text\":\"MARIA\",\"Confidence\":0.991},{\"BoundingBox\":[154,87,206,87,206,96,154,96],\"Text\":\"CHRISTINA\",\"Confidence\":0.993}]},{\"Language\":null,\"BoundingBox\":[119,96,177,96,177,104,119,104],\"Appearance\":{\"Style\":{\"Name\":\"other\",\"Confidence\":0.972}},\"Text\":\"JOSEFINA\",\"Words\":[{\"BoundingBox\":[120,97,165,97,165,104,120,104],\"Text\":\"JOSEFINA\",\"Confidence\":0.667}]},{\"Language\":null,\"BoundingBox\":[121,113,213,113,213,122,121,121],\"Appearance\":{\"Style\":{\"Name\":\"other\",\"Confidence\":0.972}},\"Text\":\"VILLA CRISOSTOMO\",\"Words\":[{\"BoundingBox\":[121,114,147,113,147,122,121,121],\"Text\":\"VILLA\",\"Confidence\":0.997},{\"BoundingBox\":[155,113,212,114,211,122,154,122],\"Text\":\"CRISOSTOMO\",\"Confidence\":0.838}]},{\"Language\":null,\"BoundingBox\":[121,123,237,123,237,132,121,132],\"Appearance\":{\"Style\":{\"Name\":\"other\",\"Confidence\":0.972}},\"Text\":\"* **** 2004/01/26\",\"Words\":[{\"BoundingBox\":[121,124,126,124,126,132,121,132],\"Text\":\"*\",\"Confidence\":0.014},{\"BoundingBox\":[141,124,177,124,177,132,141,132],\"Text\":\"****\",\"Confidence\":0},{\"BoundingBox\":[179,124,236,123,236,133,179,132],\"Text\":\"2004/01/26\",\"Confidence\":0.669}]},{\"Language\":null,\"BoundingBox\":[121,138,276,138,276,148,121,147],\"Appearance\":{\"Style\":{\"Name\":\"other\",\"Confidence\":0.972}},\"Text\":\"26 PANGASINAN ST BAGO BANTAY\",\"Words\":[{\"BoundingBox\":[122,138,131,138,131,147,121,147],\"Text\":\"26\",\"Confidence\":0.312},{\"BoundingBox\":[137,138,192,138,191,147,136,147],\"Text\":\"PANGASINAN\",\"Confidence\":0.994},{\"BoundingBox\":[198,138,209,138,209,147,198,147],\"Text\":\"ST\",\"Confidence\":0.995},{\"BoundingBox\":[214,138,236,138,236,147,214,147],\"Text\":\"BAGO\",\"Confidence\":0.986},{\"BoundingBox\":[242,138,276,138,275,148,241,148],\"Text\":\"BANTAY\",\"Confidence\":0.996}]},{\"Language\":null,\"BoundingBox\":[120,146,245,146,245,155,120,154],\"Appearance\":{\"Style\":{\"Name\":\"other\",\"Confidence\":0.972}},\"Text\":\"STO CRISTO QUEZON CITY\",\"Words\":[{\"BoundingBox\":[121,147,137,147,137,155,121,155],\"Text\":\"STO\",\"Confidence\":0.994},{\"BoundingBox\":[143,147,175,147,175,155,143,155],\"Text\":\"CRISTO\",\"Confidence\":0.997},{\"BoundingBox\":[181,147,213,147,213,155,181,155],\"Text\":\"QUEZON\",\"Confidence\":0.991},{\"BoundingBox\":[220,147,242,147,242,155,220,155],\"Text\":\"CITY\",\"Confidence\":0.967}]},{\"Language\":null,\"BoundingBox\":[120,155,191,155,191,162,120,162],\"Appearance\":{\"Style\":{\"Name\":\"other\",\"Confidence\":0.972}},\"Text\":\"METRO MANILA\",\"Words\":[{\"BoundingBox\":[121,155,147,155,147,163,121,163],\"Text\":\"METRO\",\"Confidence\":0.991},{\"BoundingBox\":[154,155,187,155,186,163,153,163],\"Text\":\"MANILA\",\"Confidence\":0.982}]},{\"Language\":null,\"BoundingBox\":[120,162,210,162,210,171,120,170],\"Appearance\":{\"Style\":{\"Name\":\"other\",\"Confidence\":0.972}},\"Text\":\"PHILIPPINES 14DO\",\"Words\":[{\"BoundingBox\":[121,163,180,163,180,171,121,171],\"Text\":\"PHILIPPINES\",\"Confidence\":0.991},{\"BoundingBox\":[188,163,208,163,208,172,187,171],\"Text\":\"14DO\",\"Confidence\":0.173}]}]}]}}",
+	"resultJsonStringImageLabeling": "[{\"Probability\":0.91987044,\"TagId\":\"a0186b85-80f1-4f49-bbe2-b23c98487ec8\",\"TagName\":\"UMID_PH_Logo\",\"BoundingBox\":{\"Left\":0.037610777,\"Top\":0.01241672,\"Width\":0.14787412,\"Height\":0.27461234},\"TagType\":\"Regular\"},{\"Probability\":0.8711565,\"TagId\":\"d72a2513-2fbd-47dc-b192-4dbf5b363474\",\"TagName\":\"UMID_Logo\",\"BoundingBox\":{\"Left\":0.8320608,\"Top\":0.028469965,\"Width\":0.14390844,\"Height\":0.19842356},\"TagType\":\"Regular\"}]",
+	"documentLandmarksProbabilityAvg": 0.7000583066666667,
+	"eKycSessionId": "0a4c58c2-1181-4e8a-978f-a9be1f5f1c4d",
+	"faceImageDataUrl": null
+}

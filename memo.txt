@@ -1,0 +1,23 @@
+python -m venv .env
+
+.env\Scripts\activate.bat
+
+
+
+
+
+https://huggingface.co/docs/transformers/tasks/image_text_to_text
+
+
+https://huggingface.co/tasks/image-text-to-text
+
+
+
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+
+pip install "numpy<2.0"
+
+
+# generate requirements.txt
+
+pip freeze > requirements.txt

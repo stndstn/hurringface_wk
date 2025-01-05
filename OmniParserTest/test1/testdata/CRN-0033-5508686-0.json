@@ -1,0 +1,112 @@
+{
+	"Success": true,
+	"Error": null,
+	"documentType": "UI",
+	"isBackOfIDImage": false,
+	"lastNameOrFullName": "MIRANDA",
+	"lastNameOrFullNameConfidence": {
+		"Min": 0.9999998807907105,
+		"Max": 0.9999998807907105,
+		"Avg": 0.9999998807907105,
+		"Worst": 0.9999998807907105,
+		"Best": 0.9999998807907105
+	},
+	"firstName": "MICHAEL",
+	"firstNameConfidence": {
+		"Min": 0.9999998807907105,
+		"Max": 0.9999998807907105,
+		"Avg": 0.9999998807907105,
+		"Worst": 0.9999998807907105,
+		"Best": 0.9999998807907105
+	},
+	"middleName": "DILAGAN",
+	"middleNameConfidence": {
+		"Min": 0.9999998807907105,
+		"Max": 0.9999998807907105,
+		"Avg": 0.9999998807907105,
+		"Worst": 0.9999998807907105,
+		"Best": 0.9999998807907105
+	},
+	"documentNumber": "0033-5508686-0",
+	"documentNumberConfidence": {
+		"Min": 0.9999998807907105,
+		"Max": 0.9999998807907105,
+		"Avg": 0.9999998807907105,
+		"Worst": 0.9999998807907105,
+		"Best": 0.9999998807907105
+	},
+	"nationality": "PH",
+	"nationalityConfidence": {
+		"Min": 1,
+		"Max": 1,
+		"Avg": 1,
+		"Worst": 1,
+		"Best": 1
+	},
+	"dateOfBirth": "1977/04/29",
+	"dateOfBirthConfidence": {
+		"Min": 0.9999998807907105,
+		"Max": 0.9999998807907105,
+		"Avg": 0.9999998807907105,
+		"Worst": 0.9999998807907105,
+		"Best": 0.9999998807907105
+	},
+	"placeOfBirth": null,
+	"placeOfBirthConfidence": null,
+	"gender": "M",
+	"genderConfidence": {
+		"Min": 0.9999998807907105,
+		"Max": 0.9999998807907105,
+		"Avg": 0.9999998807907105,
+		"Worst": 0.9999998807907105,
+		"Best": 0.9999998807907105
+	},
+	"maritalStatus": null,
+	"maritalStatusConfidence": null,
+	"documentExpirationDate": null,
+	"documentExpirationDateConfidence": null,
+	"documentIssueDate": null,
+	"documentIssueDateConfidence": null,
+	"addressLine1": "BLK1 LOT31 CEDAR ST",
+	"addressLine1Confidence": {
+		"Min": 0.9999998807907105,
+		"Max": 0.9999998807907105,
+		"Avg": 0.9999998807907105,
+		"Worst": 0.9999998807907105,
+		"Best": 0.9999998807907105
+	},
+	"addressLine2": "FILINVEST SPRING HTS SUBD BAGONG SILANGAN QUEZON CITY PHL",
+	"addressLine2Confidence": {
+		"Min": 0.9999998807907105,
+		"Max": 0.9999998807907105,
+		"Avg": 0.9999998807907105,
+		"Worst": 0.9999998807907105,
+		"Best": 0.9999998807907105
+	},
+	"addressTown": null,
+	"addressTownConfidence": null,
+	"postcode": "1119",
+	"postcodeConfidence": {
+		"Min": 0.9999998807907105,
+		"Max": 0.9999998807907105,
+		"Avg": 0.9999998807907105,
+		"Worst": 0.9999998807907105,
+		"Best": 0.9999998807907105
+	},
+	"personalNumber": null,
+	"personalNumberConfidence": null,
+	"country": "PH",
+	"faceImageBase64": null,
+	"extraData": null,
+	"confidences": {
+		"Min": 0.9999998807907105,
+		"Max": 1,
+		"Avg": 0.9999998927116394,
+		"Worst": 0.9999998807907105,
+		"Best": 1
+	},
+	"resultJsonStringOCR": "```json\n{\n  \"documentType\": \"UMID\",\n  \"fields\": [\n    {\n      \"name\": \"crnNumber\",\n      \"value\": \"0033-5508686-0\",\n      \"ocr_confidence\": 0.9999999\n    },\n    {\n      \"name\": \"surname\",\n      \"value\": \"MIRANDA\",\n      \"ocr_confidence\": 0.9999999\n    },\n    {\n      \"name\": \"givenName\",\n      \"value\": \"MICHAEL\",\n      \"ocr_confidence\": 0.9999999\n    },\n    {\n      \"name\": \"middleName\",\n      \"value\": \"DILAGAN\",\n      \"ocr_confidence\": 0.9999999\n    },\n    {\n      \"name\": \"sex\",\n      \"value\": \"M\",\n      \"ocr_confidence\": 0.9999999\n    },\n    {\n      \"name\": \"dateOfBirth\",\n      \"value\": \"1977/04/29\",\n      \"ocr_confidence\": 0.9999999\n    },\n    {\n      \"name\": \"address\",\n      \"value\": \"BLK1 LOT31 CEDAR ST\\nFILINVEST SPRING HTS SUBD\\nBAGONG SILANGAN QUEZON CITY\\nNCR PHL 1119\",\n      \"ocr_confidence\": 0.9999999\n    }\n  ]\n}\n```",
+	"resultJsonStringImageLabeling": null,
+	"documentLandmarksProbabilityAvg": null,
+	"eKycSessionId": null
+}

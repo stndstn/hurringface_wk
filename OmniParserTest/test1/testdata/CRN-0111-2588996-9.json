@@ -1,0 +1,112 @@
+{
+	"Success": true,
+	"Error": null,
+	"documentType": "UI",
+	"isBackOfIDImage": false,
+	"lastNameOrFullName": "ALVERIO III",
+	"lastNameOrFullNameConfidence": {
+		"Min": 0.9999998807907105,
+		"Max": 0.9999998807907105,
+		"Avg": 0.9999998807907105,
+		"Worst": 0.9999998807907105,
+		"Best": 0.9999998807907105
+	},
+	"firstName": "MAXIMINO",
+	"firstNameConfidence": {
+		"Min": 0.9999998807907105,
+		"Max": 0.9999998807907105,
+		"Avg": 0.9999998807907105,
+		"Worst": 0.9999998807907105,
+		"Best": 0.9999998807907105
+	},
+	"middleName": "ESPIRITUSANTO",
+	"middleNameConfidence": {
+		"Min": 0.9999998807907105,
+		"Max": 0.9999998807907105,
+		"Avg": 0.9999998807907105,
+		"Worst": 0.9999998807907105,
+		"Best": 0.9999998807907105
+	},
+	"documentNumber": "0111-2588996-9",
+	"documentNumberConfidence": {
+		"Min": 0.9999998807907105,
+		"Max": 0.9999998807907105,
+		"Avg": 0.9999998807907105,
+		"Worst": 0.9999998807907105,
+		"Best": 0.9999998807907105
+	},
+	"nationality": "PH",
+	"nationalityConfidence": {
+		"Min": 1,
+		"Max": 1,
+		"Avg": 1,
+		"Worst": 1,
+		"Best": 1
+	},
+	"dateOfBirth": "1990/03/08",
+	"dateOfBirthConfidence": {
+		"Min": 0.9999998807907105,
+		"Max": 0.9999998807907105,
+		"Avg": 0.9999998807907105,
+		"Worst": 0.9999998807907105,
+		"Best": 0.9999998807907105
+	},
+	"placeOfBirth": null,
+	"placeOfBirthConfidence": null,
+	"gender": "MALE",
+	"genderConfidence": {
+		"Min": 0.9999998807907105,
+		"Max": 0.9999998807907105,
+		"Avg": 0.9999998807907105,
+		"Worst": 0.9999998807907105,
+		"Best": 0.9999998807907105
+	},
+	"maritalStatus": null,
+	"maritalStatusConfidence": null,
+	"documentExpirationDate": null,
+	"documentExpirationDateConfidence": null,
+	"documentIssueDate": null,
+	"documentIssueDateConfidence": null,
+	"addressLine1": "B11 LLA CAMELLA AVE. CAMELLA 1",
+	"addressLine1Confidence": {
+		"Min": 0.9999998807907105,
+		"Max": 0.9999998807907105,
+		"Avg": 0.9999998807907105,
+		"Worst": 0.9999998807907105,
+		"Best": 0.9999998807907105
+	},
+	"addressLine2": "BRGY. CUYAB SAN PEDRO LAGUNA PHL",
+	"addressLine2Confidence": {
+		"Min": 0.9999998807907105,
+		"Max": 0.9999998807907105,
+		"Avg": 0.9999998807907105,
+		"Worst": 0.9999998807907105,
+		"Best": 0.9999998807907105
+	},
+	"addressTown": null,
+	"addressTownConfidence": null,
+	"postcode": "4023",
+	"postcodeConfidence": {
+		"Min": 0.9999998807907105,
+		"Max": 0.9999998807907105,
+		"Avg": 0.9999998807907105,
+		"Worst": 0.9999998807907105,
+		"Best": 0.9999998807907105
+	},
+	"personalNumber": null,
+	"personalNumberConfidence": null,
+	"country": "PH",
+	"faceImageBase64": null,
+	"extraData": null,
+	"confidences": {
+		"Min": 0.9999998807907105,
+		"Max": 1,
+		"Avg": 0.9999998927116394,
+		"Worst": 0.9999998807907105,
+		"Best": 1
+	},
+	"resultJsonStringOCR": "```json\n{\n  \"documentType\": \"UMID\",\n  \"fields\": [\n    {\n      \"name\": \"crnNumber\",\n      \"value\": \"0111-2588996-9\",\n      \"ocr_confidence\": 0.9999999\n    },\n    {\n      \"name\": \"surname\",\n      \"value\": \"ALVERIO III\",\n      \"ocr_confidence\": 0.9999999\n    },\n    {\n      \"name\": \"givenName\",\n      \"value\": \"MAXIMINO\",\n      \"ocr_confidence\": 0.9999999\n    },\n    {\n      \"name\": \"middleName\",\n      \"value\": \"ESPIRITUSANTO\",\n      \"ocr_confidence\": 0.9999999\n    },\n    {\n      \"name\": \"sex\",\n      \"value\": \"MALE\",\n      \"ocr_confidence\": 0.9999999\n    },\n    {\n      \"name\": \"dateOfBirth\",\n      \"value\": \"1990/03/08\",\n      \"ocr_confidence\": 0.9999999\n    },\n    {\n      \"name\": \"address\",\n      \"value\": \"B11 LLA CAMELLA AVE. CAMELLA 1\\nBRGY. CUYAB SAN PEDRO LAGUNA PHL\\n4023\",\n      \"ocr_confidence\": 0.9999999\n    }\n  ]\n}\n```",
+	"resultJsonStringImageLabeling": null,
+	"documentLandmarksProbabilityAvg": null,
+	"eKycSessionId": null
+}

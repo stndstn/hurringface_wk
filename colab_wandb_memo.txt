@@ -1,0 +1,6 @@
+HF: finetune_donut
+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
+
+https://wandb.ai/takumi-tateishi-freelance
+
+2dcd7173a413714754b77dcf8d1e874455c2ed98
